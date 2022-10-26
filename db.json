@@ -1,0 +1,16 @@
+{
+  "twits": [
+    {
+      "author": "Kate",
+      "text": "text-1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+      "id": 3
+    },
+    {
+      "author": "Jack",
+      "text": "text-2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg",
+      "id": 5
+    }
+  ]
+}
